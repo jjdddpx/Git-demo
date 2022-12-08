@@ -3,6 +3,6 @@ hello git！22222
 hello git！
 hello git！
 hello git！
-你好 git！
+你好 git！master test
 你好 git！
 wq!
