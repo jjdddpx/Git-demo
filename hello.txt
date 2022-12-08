@@ -1,0 +1,8 @@
+hello git！
+你好 git！
+hello git！
+hello git！
+hello git！
+你好 git！
+你好 git！
+wq!
