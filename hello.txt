@@ -6,3 +6,4 @@ hello git！
 你好 git！master test
 你好 git！hot-fix test
 wq!
+新一式
